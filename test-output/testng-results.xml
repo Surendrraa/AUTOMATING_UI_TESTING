@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="30" passed="30" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T16:10:09 IST" name="Suite" finished-at="2024-06-22T16:44:09 IST" duration-ms="2040328">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T16:10:09 IST" name="FirefoxTest" finished-at="2024-06-22T16:44:09 IST" duration-ms="2040328">
+      <class name="stepdefin.TestLinkASteps">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:10:09 IST" name="setUp" finished-at="2024-06-22T16:10:49 IST" duration-ms="40164" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkA(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:10:49 IST" name="testLinkA" data-provider="resolutions" finished-at="2024-06-22T16:11:45 IST" duration-ms="56098" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1920]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:11:45 IST" name="tearDown" finished-at="2024-06-22T16:11:52 IST" duration-ms="6583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:11:52 IST" name="setUp" finished-at="2024-06-22T16:12:12 IST" duration-ms="20122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkA(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:12:12 IST" name="testLinkA" data-provider="resolutions" finished-at="2024-06-22T16:12:55 IST" duration-ms="42628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1366]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[768]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:12:55 IST" name="tearDown" finished-at="2024-06-22T16:13:00 IST" duration-ms="5059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:13:00 IST" name="setUp" finished-at="2024-06-22T16:13:20 IST" duration-ms="20460" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkA(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:13:20 IST" name="testLinkA" data-provider="resolutions" finished-at="2024-06-22T16:14:02 IST" duration-ms="41714" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1536]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[864]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:14:02 IST" name="tearDown" finished-at="2024-06-22T16:14:08 IST" duration-ms="5302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:14:08 IST" name="setUp" finished-at="2024-06-22T16:14:29 IST" duration-ms="21520" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkA(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:14:29 IST" name="testLinkA" data-provider="resolutions" finished-at="2024-06-22T16:14:59 IST" duration-ms="30295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[640]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:14:59 IST" name="tearDown" finished-at="2024-06-22T16:15:06 IST" duration-ms="6828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:15:06 IST" name="setUp" finished-at="2024-06-22T16:15:29 IST" duration-ms="22339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkA(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:15:29 IST" name="testLinkA" data-provider="resolutions" finished-at="2024-06-22T16:15:57 IST" duration-ms="28057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[414]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[896]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:15:57 IST" name="tearDown" finished-at="2024-06-22T16:16:02 IST" duration-ms="5098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:16:02 IST" name="setUp" finished-at="2024-06-22T16:16:21 IST" duration-ms="19366" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkA(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:16:21 IST" name="testLinkA" data-provider="resolutions" finished-at="2024-06-22T16:16:50 IST" duration-ms="28794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[375]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkA -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:16:50 IST" name="tearDown" finished-at="2024-06-22T16:16:55 IST" duration-ms="4834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:16:55 IST" name="setUp" finished-at="2024-06-22T16:17:13 IST" duration-ms="17832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkB(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:17:13 IST" name="testLinkB" data-provider="resolutions" finished-at="2024-06-22T16:18:32 IST" duration-ms="79392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1920]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkB -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:18:32 IST" name="tearDown" finished-at="2024-06-22T16:18:36 IST" duration-ms="3562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:18:36 IST" name="setUp" finished-at="2024-06-22T16:18:53 IST" duration-ms="17023" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkB(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:18:53 IST" name="testLinkB" data-provider="resolutions" finished-at="2024-06-22T16:20:12 IST" duration-ms="79080" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1366]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[768]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkB -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:20:12 IST" name="tearDown" finished-at="2024-06-22T16:20:17 IST" duration-ms="5133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:20:17 IST" name="setUp" finished-at="2024-06-22T16:20:37 IST" duration-ms="20171" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkB(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:20:37 IST" name="testLinkB" data-provider="resolutions" finished-at="2024-06-22T16:21:54 IST" duration-ms="77016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1536]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[864]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkB -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:21:54 IST" name="tearDown" finished-at="2024-06-22T16:21:58 IST" duration-ms="4064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:21:58 IST" name="setUp" finished-at="2024-06-22T16:22:23 IST" duration-ms="24883" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkB(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:22:23 IST" name="testLinkB" data-provider="resolutions" finished-at="2024-06-22T16:23:39 IST" duration-ms="76084" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[640]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkB -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:23:39 IST" name="tearDown" finished-at="2024-06-22T16:23:44 IST" duration-ms="5320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:23:44 IST" name="setUp" finished-at="2024-06-22T16:24:03 IST" duration-ms="18768" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkB(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:24:03 IST" name="testLinkB" data-provider="resolutions" finished-at="2024-06-22T16:25:15 IST" duration-ms="72092" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[414]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[896]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkB -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:25:15 IST" name="tearDown" finished-at="2024-06-22T16:25:20 IST" duration-ms="5013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:25:20 IST" name="setUp" finished-at="2024-06-22T16:25:42 IST" duration-ms="21304" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkB(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:25:42 IST" name="testLinkB" data-provider="resolutions" finished-at="2024-06-22T16:26:56 IST" duration-ms="74127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[375]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkB -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:26:56 IST" name="tearDown" finished-at="2024-06-22T16:27:03 IST" duration-ms="7047" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:27:03 IST" name="setUp" finished-at="2024-06-22T16:27:23 IST" duration-ms="20628" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkC(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:27:23 IST" name="testLinkC" data-provider="resolutions" finished-at="2024-06-22T16:27:39 IST" duration-ms="15875" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1920]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:27:39 IST" name="tearDown" finished-at="2024-06-22T16:27:46 IST" duration-ms="6990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:27:46 IST" name="setUp" finished-at="2024-06-22T16:28:09 IST" duration-ms="23097" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkC(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:28:09 IST" name="testLinkC" data-provider="resolutions" finished-at="2024-06-22T16:29:23 IST" duration-ms="73617" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1366]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[768]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:29:23 IST" name="tearDown" finished-at="2024-06-22T16:29:38 IST" duration-ms="15226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:29:38 IST" name="setUp" finished-at="2024-06-22T16:30:18 IST" duration-ms="39564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkC(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:30:18 IST" name="testLinkC" data-provider="resolutions" finished-at="2024-06-22T16:31:52 IST" duration-ms="94404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1536]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[864]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:31:52 IST" name="tearDown" finished-at="2024-06-22T16:32:02 IST" duration-ms="9285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:32:02 IST" name="setUp" finished-at="2024-06-22T16:32:23 IST" duration-ms="21802" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkC(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:32:23 IST" name="testLinkC" data-provider="resolutions" finished-at="2024-06-22T16:32:33 IST" duration-ms="9278" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[640]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:32:33 IST" name="tearDown" finished-at="2024-06-22T16:32:38 IST" duration-ms="5060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:32:38 IST" name="setUp" finished-at="2024-06-22T16:33:01 IST" duration-ms="23315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkC(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:33:01 IST" name="testLinkC" data-provider="resolutions" finished-at="2024-06-22T16:33:13 IST" duration-ms="11601" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[414]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[896]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:33:13 IST" name="tearDown" finished-at="2024-06-22T16:33:19 IST" duration-ms="6027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:33:19 IST" name="setUp" finished-at="2024-06-22T16:33:46 IST" duration-ms="27191" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkC(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:33:46 IST" name="testLinkC" data-provider="resolutions" finished-at="2024-06-22T16:33:57 IST" duration-ms="10906" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[375]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkC -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:33:57 IST" name="tearDown" finished-at="2024-06-22T16:34:01 IST" duration-ms="4736" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:34:01 IST" name="setUp" finished-at="2024-06-22T16:34:36 IST" duration-ms="34911" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkD(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:34:36 IST" name="testLinkD" data-provider="resolutions" finished-at="2024-06-22T16:34:56 IST" duration-ms="19961" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1920]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:34:56 IST" name="tearDown" finished-at="2024-06-22T16:35:02 IST" duration-ms="5607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:35:02 IST" name="setUp" finished-at="2024-06-22T16:35:29 IST" duration-ms="26709" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkD(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:35:29 IST" name="testLinkD" data-provider="resolutions" finished-at="2024-06-22T16:35:42 IST" duration-ms="13663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1366]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[768]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:35:42 IST" name="tearDown" finished-at="2024-06-22T16:35:51 IST" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:35:51 IST" name="setUp" finished-at="2024-06-22T16:36:14 IST" duration-ms="23178" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkD(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:36:14 IST" name="testLinkD" data-provider="resolutions" finished-at="2024-06-22T16:36:25 IST" duration-ms="11636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1536]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[864]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:36:25 IST" name="tearDown" finished-at="2024-06-22T16:36:31 IST" duration-ms="5868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:36:31 IST" name="setUp" finished-at="2024-06-22T16:36:59 IST" duration-ms="27964" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkD(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:36:59 IST" name="testLinkD" data-provider="resolutions" finished-at="2024-06-22T16:37:11 IST" duration-ms="11462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[640]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:37:11 IST" name="tearDown" finished-at="2024-06-22T16:37:17 IST" duration-ms="6389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:37:17 IST" name="setUp" finished-at="2024-06-22T16:37:47 IST" duration-ms="29749" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkD(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:37:47 IST" name="testLinkD" data-provider="resolutions" finished-at="2024-06-22T16:37:59 IST" duration-ms="12558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[414]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[896]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:37:59 IST" name="tearDown" finished-at="2024-06-22T16:38:06 IST" duration-ms="6487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:38:06 IST" name="setUp" finished-at="2024-06-22T16:38:31 IST" duration-ms="25302" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkD(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:38:31 IST" name="testLinkD" data-provider="resolutions" finished-at="2024-06-22T16:38:45 IST" duration-ms="13391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[375]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkD -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:38:45 IST" name="tearDown" finished-at="2024-06-22T16:38:49 IST" duration-ms="4886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:38:49 IST" name="setUp" finished-at="2024-06-22T16:39:13 IST" duration-ms="23109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkE(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:39:13 IST" name="testLinkE" data-provider="resolutions" finished-at="2024-06-22T16:39:33 IST" duration-ms="20139" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1920]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1080]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkE -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:39:33 IST" name="tearDown" finished-at="2024-06-22T16:39:42 IST" duration-ms="8802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:39:42 IST" name="setUp" finished-at="2024-06-22T16:40:17 IST" duration-ms="35567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkE(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:40:17 IST" name="testLinkE" data-provider="resolutions" finished-at="2024-06-22T16:40:53 IST" duration-ms="36035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1366]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[768]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkE -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:40:53 IST" name="tearDown" finished-at="2024-06-22T16:41:05 IST" duration-ms="11450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:41:05 IST" name="setUp" finished-at="2024-06-22T16:41:37 IST" duration-ms="32329" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkE(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:41:37 IST" name="testLinkE" data-provider="resolutions" finished-at="2024-06-22T16:41:54 IST" duration-ms="17062" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Desktop]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1536]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[864]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkE -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:41:54 IST" name="tearDown" finished-at="2024-06-22T16:41:59 IST" duration-ms="5181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:41:59 IST" name="setUp" finished-at="2024-06-22T16:42:22 IST" duration-ms="22904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkE(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:42:22 IST" name="testLinkE" data-provider="resolutions" finished-at="2024-06-22T16:42:40 IST" duration-ms="17818" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[360]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[640]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkE -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:42:40 IST" name="tearDown" finished-at="2024-06-22T16:42:45 IST" duration-ms="5365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:42:45 IST" name="setUp" finished-at="2024-06-22T16:43:07 IST" duration-ms="21157" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkE(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:43:07 IST" name="testLinkE" data-provider="resolutions" finished-at="2024-06-22T16:43:20 IST" duration-ms="13773" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[414]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[896]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkE -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:43:20 IST" name="tearDown" finished-at="2024-06-22T16:43:25 IST" duration-ms="5129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:43:25 IST" name="setUp" finished-at="2024-06-22T16:43:49 IST" duration-ms="23632" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLinkE(java.lang.String,int,int)[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:43:49 IST" name="testLinkE" data-provider="resolutions" finished-at="2024-06-22T16:44:04 IST" duration-ms="14747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[375]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[667]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLinkE -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:stepdefin.TestLinkASteps@9597028]" started-at="2024-06-22T16:44:04 IST" name="tearDown" finished-at="2024-06-22T16:44:09 IST" duration-ms="5081" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- stepdefin.TestLinkASteps -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="classes">
+  
+  <test thread-count="5" name="RegistrationSteps">
+    <classes>
+      <class name="stepdefin.RegistrationSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="LoginSteps">
+    <classes>
+      <class name="stepdefin.LoginSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="ForgotPwdSteps">
+    <classes>
+      <class name="stepdefin.ForgotPwdSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="LogoutSteps">
+    <classes>
+      <class name="stepdefin.LogoutSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="SearchBarSteps">
+    <classes>
+      <class name="stepdefin.SearchBarSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="ProductCompareSteps">
+    <classes>
+      <class name="stepdefin.ProductCompareSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="ProductDisplaySteps">
+    <classes>
+      <class name="stepdefin.ProductDisplaySteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="AddToCartSteps">
+    <classes>
+      <class name="stepdefin.AddToCartSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="WishListSteps">
+    <classes>
+      <class name="stepdefin.WishListSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="HomeSteps">
+    <classes>
+      <class name="stepdefin.HomeSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="CheckOutSteps">
+    <classes>
+      <class name="stepdefin.CheckOutSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="MyAccountSteps">
+    <classes>
+      <class name="stepdefin.MyAccountSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="MyAccountInfoSteps">
+    <classes>
+      <class name="stepdefin.MyAccountInfoSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test thread-count="5" name="ChangePwdSteps">
+    <classes>
+      <class name="stepdefin.ChangePwdSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="AddressBookSteps">
+    <classes>
+      <class name="stepdefin.AddressBookSteps"/>
+    </classes>
+  </test> <!-- Test -->
+  
+
+</suite> <!-- Suite -->
